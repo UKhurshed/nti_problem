@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">nti_problem</string>
-    <string name="get_ip">Get IP</string>
+    <string name="get_ip">My IP</string>
 </resources>
